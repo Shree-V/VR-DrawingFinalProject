@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/StartScene.unity
+    guid: 0c4898b713f95b64c88c58eb88047563
+  - enabled: 0
+    path: Assets/Scenes/MainScene.unity
+    guid: a2ba44019e2a540deb4507337c25a844
+  - enabled: 0
+    path: Assets/Scenes/LevelTwo.unity
+    guid: 68eca2cc51437c34ba896c17fb2340c6
+  - enabled: 0
+    path: Assets/Scenes/EndScene.unity
+    guid: a07722adb966e5b489fbe4fe14ba0e25
+  - enabled: 0
+    path: Assets/Scenes/Jumping.unity
+    guid: 08863a6ddf5f17241a0f35d6800b115f
+  - enabled: 1
+    path: Assets/Scenes/FashionStartScene.unity
+    guid: 39b00d1820c8aba4bb7b0d5264592c8a
+  - enabled: 1
+    path: Assets/Scenes/FashionScene.unity
+    guid: a43961daa0e1f9140beb3dd3f5b1f006
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eb84867302ed045349bae371346a3123, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e592d543fd42b4c97a11ac8d978280ca, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5ff74492a84b64ed7a0e7c162f53d570, type: 2}
